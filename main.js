@@ -129,7 +129,7 @@ restartBtn = {
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
     ctx.fillStlye = "white";
-    ctx.fillText("Main Lagi!", W/2, H/2 - 25 );
+    ctx.fillText("Main Lagi !", W/2, H/2 - 25 );
   }
 };
 
